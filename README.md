@@ -81,7 +81,7 @@ O arquivo **`ProjetoPortfolio.md`** contém:
 
 ## 📋 Progresso
 
-- [ ] Fase 1 — HTML Estático
+- [X] Fase 1 — HTML Estático
 - [ ] Fase 2 — CSS Completo
 - [ ] Fase 3 — JavaScript Básico
 - [ ] Fase 4 — JavaScript Avançado
